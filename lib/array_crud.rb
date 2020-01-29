@@ -46,7 +46,7 @@ def retrieve_element_from_index(array, index_number)
 end
   
   array = ["Elizabeth","Kyle","Kaity","James"]
-  index_number = 0
+  index_number = 1
   puts retrieve_element_from_index(array, index_number)
 
 def retrieve_first_element_from_array(array)
