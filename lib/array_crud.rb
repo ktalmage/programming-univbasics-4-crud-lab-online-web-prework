@@ -50,10 +50,13 @@ end
   puts retrieve_element_from_index(array, index_number)
 
 def retrieve_first_element_from_array(array)
-  
+  array[0]
   
 end
-
+  
+  array =["Kyle","Kaity","Mom","Dad"]
+  puts retrieve_first_element_from_array
+  
 def retrieve_last_element_from_array(array)
   
 end
