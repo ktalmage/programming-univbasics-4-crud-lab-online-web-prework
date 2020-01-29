@@ -70,4 +70,4 @@ end
  array = ["Dad","Kyle","Mom","Kaity"]
  index_number = 1
  element = "Grandpa"
- puts 
+ puts update_element_from_index(array, index_number, element)
