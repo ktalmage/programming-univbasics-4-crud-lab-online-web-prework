@@ -65,6 +65,9 @@ puts retrieve_last_element_from_array
 
 def update_element_from_index(array, index_number, element)
   array[index_number] = element
-
 end
- array = 
+
+ array = ["Dad","Kyle","Mom","Kaity"]
+ index_number = 1
+ element = "Grandpa"
+ puts 
