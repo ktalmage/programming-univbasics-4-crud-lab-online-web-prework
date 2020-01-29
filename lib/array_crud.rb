@@ -54,7 +54,7 @@ def retrieve_first_element_from_array(array)
   
 end
   
-  array =["Kyle","Kaity","Mom","Dad"]
+  array =["James","Kaity","Dad","Mom"]
   puts retrieve_first_element_from_array(array)
   
 def retrieve_last_element_from_array(array)
