@@ -60,6 +60,8 @@ end
 def retrieve_last_element_from_array(array)
   array[-1]
 end
+array =["James","Kaity","Dad","Mom"]
+puts retrieve_last_element_from_array
 
 def update_element_from_index(array, index_number, element)
 
